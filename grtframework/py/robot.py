@@ -1,5 +1,4 @@
-__author__ = "Sidd Karamcheti, Calvin Huang"
-
+#2013 Ultimate Ascent Python
 import wpilib
 from config import sp, lstick
 
